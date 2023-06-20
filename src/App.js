@@ -12,8 +12,8 @@ import { updateAppTitle } from "./helpers";
 
 // Components
 import AuthLayout from "./components/Layout/Auth";
-import RouteAuthGuard from "./components/RouteAuthGuard";
 import NonAuth from "./components/Layout/NonAuth";
+import RouteAuthGuard from "./components/RouteAuthGuard";
 
 // NonAuth Pages
 import Login from "./pages/auth/Login";

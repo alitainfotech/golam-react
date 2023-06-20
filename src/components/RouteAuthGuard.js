@@ -18,5 +18,5 @@ const RouteAuthGuard = ({ isAuthProtected, children }) => {
 
   return children;
 };
- 
+
 export default RouteAuthGuard;
